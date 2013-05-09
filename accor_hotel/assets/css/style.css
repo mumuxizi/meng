@@ -85,7 +85,6 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	width:201px;
 	border:1px solid #c8c7c6;
 	padding:10px 11px 10px 11px;
-	margin:0 3px 0 4px;
 	float:left;
 }
 .accor_selecthotel_leftseason h1{
@@ -114,11 +113,11 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 }
 .accor_selecthotel_leftreservation{
 	background:#1a3561;
-	width:208px;
+	width:201px;
 	border-radius:5px;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
-	padding:15px 6px 9px 9px;
+	padding:15px 4px 9px;
 	margin-top:13px;
 	float:left;
 }
@@ -151,13 +150,13 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 }
 .accor_selecthotel_leftreservation .subcontent{
 	background:#1a5b88;
-	width:188px;
+	width:184px;
 	color:#fff;
 	font-size:12px;
 	border-radius:3px;
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
-	padding: 5px 10px 5px 4px;
+	padding: 5px 6px 5px 4px;
 	float:left;
 	font-size:10px;
 	line-height:14px;
@@ -171,7 +170,7 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 }
 .accor_selecthotel_left_reasons{
 	background:url(../img/accor_selecthotel_left_reasonbg.png) no-repeat;
-	width:208px;
+	width:201px;
 	height:260px;
 	padding:5px 7px;
 	margin-top:15px;
