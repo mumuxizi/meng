@@ -33,32 +33,43 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	width:167px;
 	height:18px;
 	line-height:18px;
-	font-size:10px;
 	padding:2px 10px;
-	color:#fff;
 	border:none;
+	float:left;
+}
+.accor_selecthotel_headselectbg img{
+	float:left;
+	margin:2px;
+}
+.accor_selecthotel_headerselettitle{
+	font-size:10px;
+	color:#fff;
 	float:left;
 }
 .accor_selecthotel_headselectbg a.selectarrow{
 	width:10px;
 	height:10px;
 	float:right;
-	z-index:999px;
+	z-index:999;
 	cursor:pointer;
 }
 .accor_selecthotel_headselect_list{
-	background:#fff;
+	background:#122e53;
+	color:#fff;
 	font-size:10px;
 	margin:20px 10px;
-    padding:10px 5px;
+    padding:5px;
 	width:147px;
 	display:none;
+	position:relative;
+	z-index:999;
 }
 .accor_selecthotel_headselect_list ul li{
-	margin:0;
+	margin:2px 0;
 	padding:0;
 	list-style:none;
 	line-height:14px;
+	cursor:pointer;
 }
 .accor_selecthotel_headselect_list ul li a{
 	color:#000;
