@@ -75,7 +75,7 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	float:left;
 }
 .accor_selecthotel_left{
-	width:208px;
+	width:201px;
 	margin-left:21px;
 	display:inline;
 	float:left;
@@ -117,7 +117,7 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	border-radius:5px;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
-	padding:15px 4px 9px;
+	padding:8px;
 	margin-top:13px;
 	float:left;
 }
@@ -172,7 +172,7 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	background:url(../img/accor_selecthotel_left_reasonbg.png) no-repeat;
 	width:201px;
 	height:260px;
-	padding:5px 7px;
+	padding:4px;
 	margin-top:15px;
 	float:left;
 }
@@ -201,12 +201,12 @@ html,body,table,img,div,dl,dt,dd,p,h1,h2,h3,{
 	width:16px;
 	height:13px;
 	float:left;
-	margin: 4px 0 4px 3px;
+	margin: 2px 0 4px 3px;
 }
 .accor_selecthotel_left_reasonslistdouble{
 	margin:0 0 0 5px;
 	float:left;
-	line-height:14px;
+	line-height:15px;
 
 }
 .accor_selecthotel_left_reasonslistdouble a{
